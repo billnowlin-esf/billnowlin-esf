@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on illuminating the future...
 - 📫 How to reach me: ifkyk...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: EFARTS
+- ⚡ Fun fact: 
 
 <!---
 billnowlin-esf/billnowlin-esf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
